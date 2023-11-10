@@ -5,6 +5,7 @@
 
 #Moodle folder specific files
 config.php
+.DS_Store
 
 # User-specific files
 *.rsuser
